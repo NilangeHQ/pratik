@@ -1,8 +1,8 @@
 # Setup
 title:               Pratik Nilange
-tagline:             'family tech support'
+tagline:             'family tech support guy'
 description:         'Quick links'
-url:                 https://pratik.nilange.com
+url:                 
 baseurl:             '' # /pratik in case the root dir is not .g.io 
 paginate:            5
 permalink:           pretty
