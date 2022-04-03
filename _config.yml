@@ -2,8 +2,8 @@
 title:               Pratik Nilange
 tagline:             'family tech support'
 description:         'Quick links'
-url:                 
-baseurl:             '/pratik'
+url:                 https://pratik.nilange.com
+baseurl:             '' # /pratik in case the root dir is not .g.io 
 paginate:            5
 permalink:           pretty
 
